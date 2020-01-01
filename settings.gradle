@@ -1,0 +1,4 @@
+rootProject.name = 'ios3'
+
+
+enableFeaturePreview('GRADLE_METADATA')
